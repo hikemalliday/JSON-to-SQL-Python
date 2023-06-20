@@ -1,0 +1,35 @@
+--Need to check the key amounts to the column amounts. if its a mismatch, exit the program
+
+--Clean up the output in command line--
+   -Can we add color?
+   -The dataType varChar output seems gross and wordy. Clean it up
+
+
+
+--Select table:--
+   -User types in exact table name as displayed to select the table
+   -Once desired table is typed in, selected_table var is set.
+   -After table name is inputed by user, need to check if that actually exists
+--Add new table functionality works--
+
+--Mapping JSON proprties to Table columsn:
+   -Option A:
+      -Enforce that the column len's match
+   -Option B:
+      -Map the column_names to the JSON props
+         -Iterate over the JSON object keys
+            -while counter < len(jsonObj[0]):
+               -for key in jsonObj[0]
+
+--Pass column names + data types into mapJSONtoTable() func:
+  -Pass in an object that has the stored column names + data types
+
+--How do we get the column names + data types stored into a dict so we can pass it into a func?
+
+
+--Save first dict in JSON file 'dict':
+   -column_order = []
+      -for key in dict:
+      -value = input('Select a KEY from YOUR FILE to map to column.columnName that has data type column.dataType)
+         -column_order.push()
+

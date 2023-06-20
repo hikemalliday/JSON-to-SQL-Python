@@ -1,0 +1,1262 @@
+[
+ {
+  "charName": "Barding",
+  "charClass": "Bard",
+  "account": "pkbbard",
+  "password": "sing1959song",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "",
+  "location": ""
+ },
+ {
+  "charName": "Beaut",
+  "charClass": "Bard",
+  "account": "beautbabec",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Dagarn Ledge"
+ },
+ {
+  "charName": "Oneman",
+  "charClass": "Bard",
+  "account": "erok8393",
+  "password": "88OilWells",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Phlawlis",
+  "charClass": "Bard",
+  "account": "amg0329",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "OT"
+ },
+ {
+  "charName": "Vhanilla",
+  "charClass": "Bard",
+  "account": "cabledawg",
+  "password": "locknload",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Steven",
+  "charClass": "Cleric",
+  "account": "barlz",
+  "password": "yeswesthyde4",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Suspy",
+  "charClass": "Cleric",
+  "account": "bruhports2",
+  "password": "t3r4e2w1",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Vulakk"
+ },
+ {
+  "charName": "RandomTrainerAccount",
+  "charClass": "Cleric",
+  "account": "roztrain1",
+  "password": "brobbtrain1",
+  "emuAccount": "roztrain123",
+  "emuPassword": "Albinotroll1324",
+  "server": "RoZ",
+  "location": "undefined"
+ },
+ {
+  "charName": "Revolve",
+  "charClass": "Cleric",
+  "account": "cap24leigh",
+  "password": "revtown1",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "PoM"
+ },
+ {
+  "charName": "Savin",
+  "charClass": "Cleric",
+  "account": "nijikuot",
+  "password": "Ivahfatdick54&&",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Droga"
+ },
+ {
+  "charName": "Sheebo",
+  "charClass": "Cleric",
+  "account": "soulevity",
+  "password": "rhymerelated",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Western Wastes"
+ },
+ {
+  "charName": "Shnarf",
+  "charClass": "Cleric",
+  "account": "rdl04",
+  "password": "COUSCOUS",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Sleeper's Tomb"
+ },
+ {
+  "charName": "Sluas",
+  "charClass": "Cleric",
+  "account": "chewpsing",
+  "password": "thejollyroger",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Dagarn Ledge"
+ },
+ {
+  "charName": "Hippo",
+  "charClass": "Cleric",
+  "account": "Lozhealer",
+  "password": "landsevery",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Lifesaver",
+  "charClass": "Cleric",
+  "account": "lifesaverr99",
+  "password": "grixus1328!",
+  "emuAccount": "lifesaverr99",
+  "emuPassword": "Albinotroll1328",
+  "server": "R99",
+  "location": "Western Wastes - DN"
+ },
+ {
+  "charName": "Guerisseuse",
+  "charClass": "Cleric",
+  "account": "notorious1",
+  "password": "windmill5",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Twins"
+ },
+ {
+  "charName": "Greg",
+  "charClass": "Cleric",
+  "account": "enchanteralt",
+  "password": "NO@h0201bear",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "City of Mist"
+ },
+ {
+  "charName": "Arbiter",
+  "charClass": "Cleric",
+  "account": "Winkin",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "PoM"
+ },
+ {
+  "charName": "Camal",
+  "charClass": "Cleric",
+  "account": "beautbabec",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Plane of Hate"
+ },
+ {
+  "charName": "Evolve",
+  "charClass": "Cleric",
+  "account": "cap25leigh",
+  "password": "evolve10",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Drpixus",
+  "charClass": "Druid",
+  "account": "druidpal",
+  "password": "stopplayingfran",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV"
+ },
+ {
+  "charName": "Dirteh",
+  "charClass": "Druid",
+  "account": "skitter1234",
+  "password": "froak12345",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Anaesthesia",
+  "charClass": "Druid",
+  "account": "Moira",
+  "password": "mine1984",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Neriak Third Gate - Reapers"
+ },
+ {
+  "charName": "Beihr",
+  "charClass": "Druid",
+  "account": "cablecut",
+  "password": "locknload",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Hoggish",
+  "charClass": "Druid",
+  "account": "stinkhole",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "CT Potion"
+ },
+ {
+  "charName": "Jerk",
+  "charClass": "Druid",
+  "account": "Lozranger",
+  "password": "roger4703",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Minoldar",
+  "charClass": "Druid",
+  "account": "portbot123",
+  "password": "Albinotroll1324",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Burning Woods"
+ },
+ {
+  "charName": "Skrewball",
+  "charClass": "Druid",
+  "account": "skrewball",
+  "password": "cobrettiman",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Crushbone"
+ },
+ {
+  "charName": "Scot",
+  "charClass": "Druid",
+  "account": "beautbabe",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Eastern Wastes"
+ },
+ {
+  "charName": "Vale",
+  "charClass": "Druid",
+  "account": "newplayer08",
+  "password": "TaxTime300!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Work",
+  "charClass": "Druid",
+  "account": "glissdru",
+  "password": "maccattack",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Zjil",
+  "charClass": "Druid",
+  "account": "nano710",
+  "password": "qwer1234",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Western Wastes - Boob"
+ },
+ {
+  "charName": "Zniff",
+  "charClass": "Druid",
+  "account": "diviney2",
+  "password": "conner",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Shelz",
+  "charClass": "Enchanter",
+  "account": "dufresne",
+  "password": "diedtoricquire",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Smudged",
+  "charClass": "Enchanter",
+  "account": "muhh muhh",
+  "password": "gowpow",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Droga"
+ },
+ {
+  "charName": "Puppetstrings",
+  "charClass": "Enchanter",
+  "account": "mezling",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Michele",
+  "charClass": "Enchanter",
+  "account": "erok8394",
+  "password": "88OilWells",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Holo",
+  "charClass": "Enchanter",
+  "account": "beautbabec",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Kael"
+ },
+ {
+  "charName": "Aneurysm",
+  "charClass": "Enchanter",
+  "account": "soulevity",
+  "password": "rhymerelated",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Western Wastes"
+ },
+ {
+  "charName": "Bunker",
+  "charClass": "Mage",
+  "account": "t3r4e2w1",
+  "password": "blindman",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - PoM Cubby"
+ },
+ {
+  "charName": "Callgirl",
+  "charClass": "Mage",
+  "account": "ybzmage",
+  "password": "doubletrouble",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "PoM"
+ },
+ {
+  "charName": "Digdug",
+  "charClass": "Mage",
+  "account": "callbot123",
+  "password": "tune1328!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Dagarn Ledge"
+ },
+ {
+  "charName": "Exploder",
+  "charClass": "Mage",
+  "account": "exploder",
+  "password": "Albinotroll1324",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "CoM"
+ },
+ {
+  "charName": "Devotion",
+  "charClass": "Mage",
+  "account": "cap31leigh",
+  "password": "yelgnome",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Yelinak"
+ },
+ {
+  "charName": "Fellowship",
+  "charClass": "Mage",
+  "account": "cap32leigh",
+  "password": "hotgnome",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - HoT"
+ },
+ {
+  "charName": "Friendcall",
+  "charClass": "Mage",
+  "account": "friendcall",
+  "password": "shadowknight1",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Sebilis"
+ },
+ {
+  "charName": "Generosity",
+  "charClass": "Mage",
+  "account": "cap34leigh",
+  "password": "peakgnome",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "VP - Xygoz Tunnel"
+ },
+ {
+  "charName": "Magemienz",
+  "charClass": "Mage",
+  "account": "brawley17",
+  "password": "lance31316192",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "VP - PD Lair"
+ },
+ {
+  "charName": "Kammy",
+  "charClass": "Mage",
+  "account": "Raclen",
+  "password": "landsevery",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Hither",
+  "charClass": "Mage",
+  "account": "cothbotgirl",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "CoM"
+ },
+ {
+  "charName": "Loyalty",
+  "charClass": "Mage",
+  "account": "cap30leigh",
+  "password": "tripgnome",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Jorr"
+ },
+ {
+  "charName": "Perseverence",
+  "charClass": "Mage",
+  "account": "cap33leigh",
+  "password": "tombgnome",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Gflux 4 way"
+ },
+ {
+  "charName": "Pudgetastic",
+  "charClass": "Mage",
+  "account": "moira",
+  "password": "mine1984",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Temple of Veeshan - Vulakk"
+ },
+ {
+  "charName": "Threepeat",
+  "charClass": "Mage",
+  "account": "merican47",
+  "password": "wbhrydqf4w3g",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Old Sebilis"
+ },
+ {
+  "charName": "Sauced",
+  "charClass": "Mage",
+  "account": "broports1",
+  "password": "pown1234",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "test123123123",
+  "charClass": "Mage",
+  "account": "$",
+  "password": "",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "",
+  "location": ""
+ },
+ {
+  "charName": "newtest",
+  "charClass": "Mage",
+  "account": "$",
+  "password": "",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "",
+  "location": ""
+ },
+ {
+  "charName": "Wewk",
+  "charClass": "Monk",
+  "account": "bachnuga",
+  "password": "warcraft123",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Skittero",
+  "charClass": "Monk",
+  "account": "skittera",
+  "password": "froak12345",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Sharknado",
+  "charClass": "Monk",
+  "account": "cap10leigh",
+  "password": "madkingfran",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Turin",
+  "charClass": "Monk",
+  "account": "elessar",
+  "password": "pegasus123",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Penalty",
+  "charClass": "Monk",
+  "account": "narcist",
+  "password": "redmonk1328!",
+  "emuAccount": "narcist",
+  "emuPassword": "se8BEDvr",
+  "server": "R99",
+  "location": "ToV - Vulak Pillar"
+ },
+ {
+  "charName": "Ragesaurus",
+  "charClass": "Monk",
+  "account": "agrant",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Dzel",
+  "charClass": "Monk",
+  "account": "denzel",
+  "password": "magician7",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Chap",
+  "charClass": "Monk",
+  "account": "hattrick",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Barladorex",
+  "charClass": "Monk",
+  "account": "Barladorex",
+  "password": "yeswesthyde1",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Chardok"
+ },
+ {
+  "charName": "Ankle",
+  "charClass": "Monk",
+  "account": "",
+  "password": "",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "",
+  "location": ""
+ },
+ {
+  "charName": "Grixus",
+  "charClass": "Necromancer",
+  "account": "hikemalliday",
+  "password": "roznecro1328!",
+  "emuAccount": "hikemalliday",
+  "emuPassword": "Albinotroll1324",
+  "server": "R99",
+  "location": "PoM"
+ },
+ {
+  "charName": "Reap",
+  "charClass": "Necromancer",
+  "account": "cap19leigh",
+  "password": "franaddiction",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV"
+ },
+ {
+  "charName": "Siphon",
+  "charClass": "Necromancer",
+  "account": "kaun77",
+  "password": "benjamin77",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV zone in"
+ },
+ {
+  "charName": "Yollo",
+  "charClass": "Paladin",
+  "account": "Zoro8927",
+  "password": "dustin101",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Sebilis - Poop"
+ },
+ {
+  "charName": "Macros",
+  "charClass": "Paladin",
+  "account": "elessar",
+  "password": "pegasus123",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Wakening Lands / Kael"
+ },
+ {
+  "charName": "Faso",
+  "charClass": "Paladin",
+  "account": "skitterb1",
+  "password": "neonisadog",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "PoSky  - Dojo"
+ },
+ {
+  "charName": "Dicaprio",
+  "charClass": "Paladin",
+  "account": "hattrick",
+  "password": "CalebE30",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Dangle",
+  "charClass": "Ranger",
+  "account": "palvenik",
+  "password": "Gameboy123",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Dory",
+  "charClass": "Ranger",
+  "account": "cap18leigh",
+  "password": "doryexplory",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Western Wastes"
+ },
+ {
+  "charName": "Hoodwink",
+  "charClass": "Ranger",
+  "account": "silencer13",
+  "password": "suillon11",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Riding",
+  "charClass": "Ranger",
+  "account": "erok8391",
+  "password": "88OilWells",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Western Wastes"
+ },
+ {
+  "charName": "Rahnda",
+  "charClass": "Rogue",
+  "account": "cabledawg",
+  "password": "locknload",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Shivalry",
+  "charClass": "Rogue",
+  "account": "patrickb",
+  "password": "froakcleric1",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV"
+ },
+ {
+  "charName": "Solidarity",
+  "charClass": "Rogue",
+  "account": "cap27leigh",
+  "password": "roguepalsolid",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Visible",
+  "charClass": "Rogue",
+  "account": "rozbox99",
+  "password": "bradbless99",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": "Sebilis"
+ },
+ {
+  "charName": "Kinship",
+  "charClass": "Rogue",
+  "account": "cap26leigh",
+  "password": "roguepalkin",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - 4way"
+ },
+ {
+  "charName": "Machete",
+  "charClass": "Rogue",
+  "account": "soulevity",
+  "password": "rhymerelated",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV"
+ },
+ {
+  "charName": "Martell",
+  "charClass": "Rogue",
+  "account": "beautbabe",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Old Sebilis"
+ },
+ {
+  "charName": "Marky",
+  "charClass": "Rogue",
+  "account": "cap23leigh",
+  "password": "sickfran",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Captainn",
+  "charClass": "Rogue",
+  "account": "captainfantasy",
+  "password": "grixus146",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Dagarn Ledge"
+ },
+ {
+  "charName": "Cellardoor",
+  "charClass": "Rogue",
+  "account": "brawley17",
+  "password": "lance31316192",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Affection",
+  "charClass": "Rogue",
+  "account": "cap28leigh",
+  "password": "roguepalaff",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Consequences",
+  "charClass": "Rogue",
+  "account": "rogueling",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Dacuk",
+  "charClass": "Shadow Knight",
+  "account": "richard.larin",
+  "password": "elephant11",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Kael"
+ },
+ {
+  "charName": "Faceoff",
+  "charClass": "Shadow Knight",
+  "account": "Slimshady",
+  "password": "Trump2024",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Cazic Thule"
+ },
+ {
+  "charName": "Emric",
+  "charClass": "Shadow Knight",
+  "account": "dragoonp99",
+  "password": "locknload",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Tusk",
+  "charClass": "Shadow Knight",
+  "account": "muhh muhh",
+  "password": "gowpow",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99 ",
+  "location": "Droga"
+ },
+ {
+  "charName": "Ungodly",
+  "charClass": "Shadow Knight",
+  "account": "ungodly",
+  "password": "bigsk123",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "CT"
+ },
+ {
+  "charName": "Rickjames",
+  "charClass": "Shadow Knight",
+  "account": "rickjamesr99",
+  "password": "grixus1328!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Temple of Veeshan"
+ },
+ {
+  "charName": "Saibor",
+  "charClass": "Shaman",
+  "account": "Liako03",
+  "password": "riphyatt3",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Snitch",
+  "charClass": "Shaman",
+  "account": "snitchr99",
+  "password": "tune1328!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Old Sebilis - Fungi Rock"
+ },
+ {
+  "charName": "Voodoonasty",
+  "charClass": "Shaman",
+  "account": "grantam",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "PoM"
+ },
+ {
+  "charName": "Xiahou",
+  "charClass": "Shaman",
+  "account": "beautbabec",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Vulakk Spot"
+ },
+ {
+  "charName": "Frosticles",
+  "charClass": "Shaman",
+  "account": "hats4",
+  "password": "azureblack11",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Landfill",
+  "charClass": "Shaman",
+  "account": "Danger592",
+  "password": "Gameboy123",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "WW"
+ },
+ {
+  "charName": "Braza",
+  "charClass": "Shaman",
+  "account": "soulevity",
+  "password": "rhymerelated",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Western Wastes"
+ },
+ {
+  "charName": "Brub",
+  "charClass": "Shaman",
+  "account": "avathor",
+  "password": "luckylager1",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Bankskank",
+  "charClass": "Warrior",
+  "account": "hikemalliday",
+  "password": "roznecro1328!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "NFP"
+ },
+ {
+  "charName": "Efron",
+  "charClass": "Warrior",
+  "account": "Awfal",
+  "password": "Bigdickz",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Kael"
+ },
+ {
+  "charName": "Ordaga",
+  "charClass": "Warrior",
+  "account": "butkiss",
+  "password": "pukEman99",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Gene",
+  "charClass": "Warrior",
+  "account": "cap17leigh",
+  "password": "ogreparm",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "OT"
+ },
+ {
+  "charName": "Golfclap",
+  "charClass": "Warrior",
+  "account": "storkwiz",
+  "password": "redwiz1328!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99 ",
+  "location": "NFP"
+ },
+ {
+  "charName": "Havi",
+  "charClass": "Warrior",
+  "account": "biggybiggybiggy",
+  "password": "Cantyousee54",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV"
+ },
+ {
+  "charName": "Ivah",
+  "charClass": "Warrior",
+  "account": "evilfang",
+  "password": "Ivahfatdick54&&",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Vulakk Spot"
+ },
+ {
+  "charName": "Hashbrowns",
+  "charClass": "Warrior",
+  "account": "cap12leigh",
+  "password": "smallbrainfran",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Yelinak"
+ },
+ {
+  "charName": "Thane",
+  "charClass": "Warrior",
+  "account": "hats11",
+  "password": "azureblack11",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Reich",
+  "charClass": "Warrior",
+  "account": "fienix420",
+  "password": "burn420420",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Yeli"
+ },
+ {
+  "charName": "Preston",
+  "charClass": "Wizard",
+  "account": "hats~",
+  "password": "azureblack11",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Scholar",
+  "charClass": "Wizard",
+  "account": "druidling",
+  "password": "jmu32390254",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Rnap",
+  "charClass": "Wizard",
+  "account": "trainingday",
+  "password": "offlimitsawfal",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "CoM - Level 55"
+ },
+ {
+  "charName": "Rushan",
+  "charClass": "Wizard",
+  "account": "beautbabe",
+  "password": "CalebE18",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "PoSky - Isle 4 Tower"
+ },
+ {
+  "charName": "Stork",
+  "charClass": "Wizard",
+  "account": "storkwiz",
+  "password": "redwiz1328!",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Msap",
+  "charClass": "Wizard",
+  "account": "washington",
+  "password": "awfaluseshields",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Nev"
+ },
+ {
+  "charName": "Mrap",
+  "charClass": "Wizard",
+  "account": "shawshank",
+  "password": "notamonkawfal",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "Highpass"
+ },
+ {
+  "charName": "Drap",
+  "charClass": "Wizard",
+  "account": "cap11leigh",
+  "password": "stopthemadness",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "ToV - Nev"
+ },
+ {
+  "charName": "Czar",
+  "charClass": "Wizard",
+  "account": "conductor1",
+  "password": "yeswesthyde6",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "RoZ",
+  "location": ""
+ },
+ {
+  "charName": "Damienz",
+  "charClass": "Wizard",
+  "account": "brawley17",
+  "password": "lance31316192",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": ""
+ },
+ {
+  "charName": "Cyador",
+  "charClass": "Wizard",
+  "account": "rdl27",
+  "password": "elephant",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "CT"
+ },
+ {
+  "charName": "Behindme",
+  "charClass": "Wizard",
+  "account": "soulevity",
+  "password": "rhymerelated",
+  "emuAccount": "",
+  "emuPassword": "",
+  "server": "R99",
+  "location": "TT - Orb"
+ }
+]
