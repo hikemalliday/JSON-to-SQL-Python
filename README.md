@@ -7,3 +7,4 @@ The app then asks the user to select a prexisting table, or to create a new one 
 
 The app then asks the user to map the 'keys' in the JSON objects to columns in the selected SQL table.
 
+
